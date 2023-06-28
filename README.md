@@ -3,12 +3,6 @@
 - 😁 Não trabalho em nada mais pretendo
 - 👾 Estou aprendendo desenvolvimento de jogos, Web, Python, JAVA, etc...
 
-<a href="https://github.com/Jedev1/github-stats">
-<img src="https://github.com/Jedev1/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Jedev1/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/Jedev1/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/Jedev1/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
 
 <div>
 <a href = "https://instagram.com/je_0337" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

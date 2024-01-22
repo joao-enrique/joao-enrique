@@ -1,24 +1,30 @@
-### Olá seja bem-vindo, esse é o meu github😉
+# [João Enrique]
 
-- 😁 Não trabalho em nada mais pretendo
-- 👾 Estou aprendendo desenvolvimento de jogos, Web, Python, JAVA, etc...
+## Olá! 👋
 
----
+Sou um desenvolvedor entusiasta de jogos e front-end, apaixonado por criar experiências incríveis para os usuários. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento web e na criação de jogos envolventes.
 
-<div align="center">
-  <a href="https://github.com/Jedev1">
-  <img width="52.7%" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### 💻 Tecnologias e Ferramentas
 
----
+- Linguagens: HTML, CSS, JavaScript
+- Frameworks: React.js
+- Ferramentas: Git, Visual Studio Code
 
-<div>
-<a href = "https://instagram.com/je_0337" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "almeidadesousajoaoenrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique-almeida-b03a31262" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### 🕹️ Projetos de Jogos
+
+### 🚀 Projetos Front-end
+
+
+### 📚 Educação
+
+- [Nome da Instituição] - [Curso/Degree]
+
+### 🌐 Onde me encontrar
+
+
+Estou sempre aberto a colaborações e novos projetos emocionantes. Se você compartilha meu entusiasmo por desenvolvimento de jogos ou front-end, sinta-se à vontade para entrar em contato!
+
+Vamos criar algo incrível juntos! 🚀
 
 
 

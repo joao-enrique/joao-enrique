@@ -7,7 +7,7 @@ Sou um desenvolvedor entusiasta de jogos e front-end, apaixonado por criar exper
 ### 💻 Tecnologias e Ferramentas
 
 - Linguagens: HTML, CSS, JavaScript
-- Frameworks: React.js
+- Frameworks: React.js, React Native
 - Ferramentas: Git, Visual Studio Code
 
 ### 🕹️ Projetos de Jogos
@@ -17,7 +17,7 @@ Sou um desenvolvedor entusiasta de jogos e front-end, apaixonado por criar exper
 
 ### 📚 Educação
 
-- [Nome da Instituição] - [Curso/Degree]
+- IFMA campus Açailândia - Informatica
 
 ### 🌐 Onde me encontrar
 

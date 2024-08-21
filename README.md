@@ -1,16 +1,18 @@
-# [João Enrique]
+<h1 align="center">João Enrique</h1>
 
-## Olá! 👋
+## Opa e aí
 
-Sou um desenvolvedor entusiasta de jogos e front-end, apaixonado por criar experiências incríveis para os usuários. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento web e na criação de jogos envolventes.
+Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muitos conhecimentos na área de tecnologia por que gosto muito da área e invisto bastante em mim mesmo nessa área e acredito que dentro do meu github possuo projetos que mostrem minha habilidade e competência
 
 ### 💻 Tecnologias e Ferramentas
 
-- Linguagens: HTML, CSS, JavaScript
-- Frameworks: React.js, React Native
-- Ferramentas: Git, Visual Studio Code
+- Linguagens: HTML5, CSS3, JavaScript, Python, GDscript
+- Frameworks: React.js, flet
+- Ferramentas: Git, Visual Studio Code, Godot
 
 ### 🕹️ Projetos de Jogos
+
+- Operação hut-9: <a href="https://github.com/Jedev1/Operacao-hut-9">Confira o projeto aqui</a>
 
 ### 🚀 Projetos Front-end
 - Portifolio: <a href="https://jedev1.github.io/Meu-portifolio/">Confira o projeto aqui</a>
@@ -22,9 +24,7 @@ Sou um desenvolvedor entusiasta de jogos e front-end, apaixonado por criar exper
 ### 🌐 Onde me encontrar
 
 
-Estou sempre aberto a colaborações e novos projetos emocionantes. Se você compartilha meu entusiasmo por desenvolvimento de jogos ou front-end, sinta-se à vontade para entrar em contato!
-
-Vamos criar algo incrível juntos! 🚀
+Estou aberto a propostas dentro das minhas redes sociais
 
 
 

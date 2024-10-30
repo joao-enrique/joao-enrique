@@ -31,7 +31,7 @@ Estou aberto a propostas dentro das minhas redes sociais
 </a>
 
 <a href="https://www.instagram.com/devlag_/" target="_blank">
- <img alt="Prashoon123 | Instagram" src="https://img.shields.io/badge/PrashoonB-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ <img alt="Prashoon123 | Instagram" src="https://img.shields.io/badge/Jedev1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 

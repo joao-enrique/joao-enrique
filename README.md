@@ -1,6 +1,6 @@
 <h1 align="center">João Enrique</h1>
 
-## Opa e aí
+## Opa e aí, tudo bem?
 
 Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muitos conhecimentos na área de tecnologia por que gosto muito da área e invisto bastante em mim mesmo nessa área e acredito que dentro do meu github possuo projetos que mostrem minha habilidade e competência
 
@@ -37,8 +37,8 @@ Estou aberto a propostas dentro das minhas redes sociais
 
 ### status
 
-<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true" />
-<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1" />
+<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true" color="gold"/>
+<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1" color="gold" />
 
 
 

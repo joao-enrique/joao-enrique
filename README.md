@@ -27,11 +27,11 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 Estou aberto a propostas dentro das minhas redes sociais
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique-almeida-b03a31262/" target="_blank">
- <img alt="Prashoon123 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img alt="Jedev1 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/devlag_/" target="_blank">
- <img alt="Prashoon123 | Instagram" src="https://img.shields.io/badge/Jedev1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ <img alt="Jedev1 | Instagram" src="https://img.shields.io/badge/Jedev1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 

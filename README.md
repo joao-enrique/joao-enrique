@@ -1,8 +1,6 @@
-<h1 align="center">João Enrique</h1>
-
 <h1 align="center">Opa e aí, tudo bem?</h1>
 
-Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muitos conhecimentos na área de tecnologia por que gosto muito da área e invisto bastante em mim mesmo nessa área e acredito que dentro do meu github possuo projetos que mostrem minha habilidade e competência
+Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muitos conhecimentos na área de tecnologia pois gosto muito da área e invisto bastante em mim mesmo nessa área e acredito que dentro do meu github possuo projetos que mostrem minha habilidade e competência
 
 ### 💻 Tecnologias e Ferramentas
 

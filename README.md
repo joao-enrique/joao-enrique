@@ -40,7 +40,7 @@ Estou aberto a propostas dentro das minhas redes sociais
 ### status
 
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true&theme=merko"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1&layout=compact)
+<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1&layout=compact"/>
 
 
 ![snake gif](https://github.com/Jedev1/Jedev1/blob/output/github-contribution-grid-snake-dark.svg)

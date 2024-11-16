@@ -29,11 +29,11 @@ Estou aberto a propostas dentro das minhas redes sociais
 </a>
 
 <a href="https://www.instagram.com/devlag_/" target="_blank">
- <img alt="Jedev1 | Instagram" src="https://img.shields.io/badge/Jedev1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ <img alt="_devlag | Instagram" src="https://img.shields.io/badge/Jedev1-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@Devlag" target="_blank">
- <img alt="Jedev1 | Instagram" src="https://img.shields.io/badge/Jedev1-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+ <img alt="devlag | Youtube" src="https://img.shields.io/badge/Jedev1-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 

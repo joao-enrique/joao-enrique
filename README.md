@@ -37,7 +37,7 @@ Estou aberto a propostas dentro das minhas redes sociais
 </a>
 
 
-### status
+### 😎 Status
 
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true&theme=merko"/>
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1&layout=compact&theme=merko"/>

@@ -1,4 +1,4 @@
-<img alt="background" src="background.png" align="center"/>
+<img alt="background" src="background.png" height="120px" align="center"/>
 <br>
 <h1 align="center">Opa e aí, tudo bem?</h1>
 

@@ -11,7 +11,7 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 - Ferramentas: Git, Visual Studio Code, Godot
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Jedev1">
     <img src="https://skillicons.dev/icons?i=git,godot,github,html,css,js,python,vscode" />
   </a>
 </p>

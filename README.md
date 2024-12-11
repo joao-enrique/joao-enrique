@@ -4,11 +4,13 @@
 
 Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muitos conhecimentos na área de tecnologia pois gosto muito da área e invisto bastante em mim mesmo nessa área e acredito que dentro do meu github possuo projetos que mostrem minha habilidade e competência
 
-### 💻 Tecnologias e Ferramentas
+<h1 align="center">💻 Tecnologias e Ferramentas</h1>
 
-- Linguagens: HTML5, CSS3, JavaScript, Python, GDscript
-- Frameworks: React.js, flet
-- Ferramentas: Git, Visual Studio Code, Godot
+<ul align="center">
+  <li>Linguagens: HTML5, CSS3, JavaScript, Python, GDscript</li>
+  <li>Frameworks: React.js, flet</li>
+  <li>Ferramentas: Git, Visual Studio Code, Godot</li>
+</ul>
 <br>
 <p>
   <a href="https://github.com/Jedev1">

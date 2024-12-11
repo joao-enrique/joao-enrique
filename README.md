@@ -20,14 +20,14 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 
 - Operação hut-9: <a href="https://github.com/Jedev1/Operacao-hut-9" align="center">Confira o projeto aqui</a>
 
-<h1 align="center">🚀 Projetos Front-end<\h1>
+<h1 align="center">🚀 Projetos Front-end</h1>
 - Portifolio: <a href="https://jedev1.github.io/Meu-portifolio/" align="center">Confira o projeto aqui</a>
 
-### 📚 Educação
+<h1 align="center">📚 Educação</h1>
 
 - IFMA campus Açailândia - Informatica
 
-### 🌐 Onde me encontrar
+<h1 align="center">🌐 Onde me encontrar</h1>
 
 
 Estou aberto a propostas dentro das minhas redes sociais

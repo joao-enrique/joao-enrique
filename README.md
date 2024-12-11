@@ -12,7 +12,7 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 <br>
 <p align="center">
   <a href="https://github.com/Jedev1">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python,lua,godot,jest&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python,lua,godot,jest" />
   </a>
 </p>
 

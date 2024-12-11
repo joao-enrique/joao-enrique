@@ -18,34 +18,34 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 
 <h1 align="center">🕹️ Projetos de Jogos</h1>
 
-- Operação hut-9: <a href="https://github.com/Jedev1/Operacao-hut-9" align="center">Confira o projeto aqui</a>
+<p align="center">Operação hut-9: <a href="https://github.com/Jedev1/Operacao-hut-9" align="center">Confira o projeto aqui</a></p>
 
 <h1 align="center">🚀 Projetos Front-end</h1>
-- Portifolio: <a href="https://jedev1.github.io/Meu-portifolio/" align="center">Confira o projeto aqui</a>
+<p align="center">Portifolio: <a href="https://jedev1.github.io/Meu-portifolio/" align="center">Confira o projeto aqui</a></p>
 
 <h1 align="center">📚 Educação</h1>
 
-- IFMA campus Açailândia - Informatica
+<p align="center">IFMA campus Açailândia - Informatica</p>
 
 <h1 align="center">🌐 Onde me encontrar</h1>
 
 
-Estou aberto a propostas dentro das minhas redes sociais
+<p align="center">Estou aberto a propostas dentro das minhas redes sociais</p>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-enrique-almeida-b03a31262/" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-enrique-almeida-b03a31262/" target="_blank" align="center">
  <img alt="Jedev1 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/devlag_/" target="_blank">
+<a href="https://www.instagram.com/devlag_/" target="_blank"  align="center">
  <img alt="_devlag | Instagram" src="https://img.shields.io/badge/devlag_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@Devlag" target="_blank">
+<a href="https://www.youtube.com/@Devlag" target="_blank"  align="center">
  <img alt="devlag | Youtube" src="https://img.shields.io/badge/Devlag-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 
 
-### 😎 Status
+<h1 align="center">😎 Status</h1>
 
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true&theme=merko&rank_icon=github"/>
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1&hide_progress=true&theme=merko"/>

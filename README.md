@@ -32,18 +32,19 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 
 <p align="center">Estou aberto a propostas dentro das minhas redes sociais</p>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-enrique-almeida-b03a31262/" target="_blank" align="center">
+<ul align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique-almeida-b03a31262/" target="_blank">
  <img alt="Jedev1 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/devlag_/" target="_blank"  align="center">
+<a href="https://www.instagram.com/devlag_/" target="_blank">
  <img alt="_devlag | Instagram" src="https://img.shields.io/badge/devlag_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@Devlag" target="_blank"  align="center">
+<a href="https://www.youtube.com/@Devlag" target="_blank">
  <img alt="devlag | Youtube" src="https://img.shields.io/badge/Devlag-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
-
+</ul>
 
 <h1 align="center">😎 Status</h1>
 

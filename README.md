@@ -9,6 +9,8 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 - Linguagens: HTML5, CSS3, JavaScript, Python, GDscript
 - Frameworks: React.js, flet
 - Ferramentas: Git, Visual Studio Code, Godot
+<br>
+[![My Skills](https://skillicons.dev/icons?i=godot,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### 🕹️ Projetos de Jogos
 

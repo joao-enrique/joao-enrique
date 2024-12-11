@@ -12,7 +12,7 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,godot,github,html,css,js" />
   </a>
 </p>
 

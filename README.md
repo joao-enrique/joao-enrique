@@ -10,7 +10,11 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 - Frameworks: React.js, flet
 - Ferramentas: Git, Visual Studio Code, Godot
 <br>
-[![My Skills](https://skillicons.dev/icons?i=godot,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ### 🕹️ Projetos de Jogos
 

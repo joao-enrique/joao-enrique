@@ -7,7 +7,7 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 <h1 align="center">💻 Tecnologias e Ferramentas</h1>
 
 <ul align="center">
-  <li>Linguagens: HTML5, CSS3, JavaScript, Python, GDscript</li>
+  <li style="list-style:none;">Linguagens: HTML5, CSS3, JavaScript, Python, GDscript</li>
   <li>Frameworks: React.js, flet</li>
   <li>Ferramentas: Git, Visual Studio Code, Godot</li>
 </ul>

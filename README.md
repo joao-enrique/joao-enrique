@@ -16,12 +16,12 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
   </a>
 </p>
 
-### 🕹️ Projetos de Jogos
+<h1 align="center">🕹️ Projetos de Jogos</h1>
 
-- Operação hut-9: <a href="https://github.com/Jedev1/Operacao-hut-9">Confira o projeto aqui</a>
+- Operação hut-9: <a href="https://github.com/Jedev1/Operacao-hut-9" align="center">Confira o projeto aqui</a>
 
-### 🚀 Projetos Front-end
-- Portifolio: <a href="https://jedev1.github.io/Meu-portifolio/">Confira o projeto aqui</a>
+<h1 align="center">🚀 Projetos Front-end<\h1>
+- Portifolio: <a href="https://jedev1.github.io/Meu-portifolio/" align="center">Confira o projeto aqui</a>
 
 ### 📚 Educação
 

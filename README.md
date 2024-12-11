@@ -10,7 +10,7 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 - Frameworks: React.js, flet
 - Ferramentas: Git, Visual Studio Code, Godot
 <br>
-<p align="center">
+<p>
   <a href="https://github.com/Jedev1">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python,lua,godot&perline=3" />
   </a>

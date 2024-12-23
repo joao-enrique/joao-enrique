@@ -22,6 +22,7 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 
 <h1 align="center">🚀 Projetos Front-end</h1>
 <p align="center">Portifolio: <a href="https://jedev1.github.io/Meu-portifolio/" align="center">Confira o projeto aqui</a></p>
+<p align="center">Link para redes sociais: <a href="https://jedev1.github.io/Social-link-perfil/">Confira o projeto aqui</a></p>
 
 <h1 align="center">📚 Educação</h1>
 

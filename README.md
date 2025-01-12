@@ -7,7 +7,7 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 <h1 align="center">💻 Tecnologias e Ferramentas</h1>
 
   <p align="center">Linguagens: HTML5, CSS3, JavaScript, Python, GDscript</p> 
-  <p align="center">Frameworks: React.js, flet</p>
+  <p align="center">Frameworks: React.js, React native, flet</p>
   <p align="center">Ferramentas: Git, Visual Studio Code, Godot</p>
 <br>
 <p align="center">
@@ -23,6 +23,9 @@ Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muito
 <h1 align="center">🚀 Projetos Front-end</h1>
 <p align="center">Portifolio: <a href="https://jedev1.github.io/portifolio-joao/" align="center">Confira o projeto aqui</a></p>
 <p align="center">Link para redes sociais: <a href="https://jedev1.github.io/Social-link-perfil/">Confira o projeto aqui</a></p>
+
+<h1 align="center">📱 Projetos App</h1>
+<p align="center">Restaurante App: <a href="https://github.com/Jedev1/App-restaurante" align="center">Confira o projeto aqui</a></p>
 
 <h1 align="center">📚 Educação</h1>
 

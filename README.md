@@ -64,5 +64,25 @@
 
 ![snake gif](https://github.com/Jedev1/Jedev1/blob/main/github-contribution-grid-snake-dark.svg)
 
+###
+
+<p align="left">📌 Quer trocar uma ideia ou colaborar?</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/devlag_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Devlag" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
 
 

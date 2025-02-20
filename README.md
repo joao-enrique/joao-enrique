@@ -58,8 +58,6 @@
 
 ###
 
-<h1 align="center">😎 Status</h1>
-
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true&theme=merko&rank_icon=github"/>
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1&hide_progress=true&theme=merko"/>
 

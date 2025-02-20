@@ -1,55 +1,50 @@
 <img alt="background" src="João_Enrique.png" align="center"/>
 <br>
-<h1 align="center">Opa e aí, tudo bem?</h1>
+<h2 align="left">👋 Opa e aí, tudo bem? Eu sou o João</h2>
 
-Meu nome é João, sou um desenvolvedor web, de jogos e aplicativos possuo muitos conhecimentos na área de tecnologia pois gosto muito da área e invisto bastante em mim mesmo nessa área e acredito que dentro do meu github possuo projetos que mostrem minha habilidade e competência
+###
 
-<h1 align="center">💻 Tecnologias e Ferramentas</h1>
+<p align="left">🎮 Desenvolvedor Front-end e Game Dev | 🎨 Criador de interfaces intuitivas | 🎥 Criador de conteúdo</p>
 
-  <p align="center">Linguagens: HTML5, CSS3, JavaScript, Python, GDscript</p> 
-  <p align="center">Frameworks: React.js, React native, flet</p>
-  <p align="center">Ferramentas: Git, Visual Studio Code, Godot</p>
-<br>
-<p align="center">
-  <a href="https://github.com/Jedev1">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,sass,js,react,python,lua,godot,jest,aws,azure,gcp,vite,c#" />
-  </a>
-</p>
+###
 
-<h1 align="center">🕹️ Projetos de Jogos</h1>
+<h2 align="left">💻 Tecnologias</h2>
 
-<p align="center">Operação hut-9: <a href="https://github.com/Jedev1/Operacao-hut-9" align="center">Confira o projeto aqui</a></p>
+###
 
-<h1 align="center">🚀 Projetos Front-end</h1>
-<p align="center">Portifolio: <a href="https://jedev1.github.io/portifolio-joao/" align="center">Confira o projeto aqui</a></p>
-<p align="center">Link para redes sociais: <a href="https://jedev1.github.io/Social-link-perfil/">Confira o projeto aqui</a></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+</div>
 
-<h1 align="center">📱 Projetos App</h1>
-<p align="center">Restaurante App: <a href="https://github.com/Jedev1/App-restaurante" align="center">Confira o projeto aqui</a></p>
-
-<h1 align="center">📚 Educação</h1>
-
-<p align="center">IFMA campus Açailândia - Informatica</p>
-
-<h1 align="center">🌐 Onde me encontrar</h1>
-
-
-<p align="center">Estou aberto a propostas dentro das minhas redes sociais</p>
-
-<ul align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique-almeida-b03a31262/" target="_blank">
- <img alt="Jedev1 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/devlag_/" target="_blank">
- <img alt="_devlag | Instagram" src="https://img.shields.io/badge/devlag_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@Devlag" target="_blank">
- <img alt="devlag | Youtube" src="https://img.shields.io/badge/Devlag-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-</a>
-</ul>
-
+###
 <h1 align="center">😎 Status</h1>
 
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true&theme=merko&rank_icon=github"/>

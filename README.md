@@ -45,6 +45,19 @@
 </div>
 
 ###
+
+<h2 align="left">🎯 O que eu faço?</h2>
+
+###
+
+<p align="left">🕹️ Desenvolvo jogos 2D e FPS<br><br>🔥 Estou criando um roguelike 2D na Unity.<br><br>🌎 Construo sites modernos e responsivos com ReactJS.<br><br>📱 Crio aplicativos intuitivos para diferentes plataformas.<br><br>🎬 Produzo vídeos e devlogs sobre desenvolvimento de jogos no YouTube.</p>
+
+###
+
+<h2 align="left">Status ✨</h2>
+
+###
+
 <h1 align="center">😎 Status</h1>
 
 <img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true&theme=merko&rank_icon=github"/>

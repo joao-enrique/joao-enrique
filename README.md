@@ -13,39 +13,61 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="Typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=react" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=java" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=py" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </div>
 
 ###

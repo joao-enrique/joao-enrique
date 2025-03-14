@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🎮 Desenvolvedor Front-end e Game Dev | 🎨 Criador de interfaces intuitivas | 🎥 Criador de conteúdo</p>
+<p align="left">🎮 Desenvolvedor Full-stack e Game Dev | 🎨 Criador de interfaces intuitivas | 🎥 Criador de conteúdo</p>
 
 ###
 

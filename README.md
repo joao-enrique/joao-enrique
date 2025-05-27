@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">🕹️ Desenvolvo jogos 2D e FPS<br><br>🔥 Estou criando um roguelike 2D na Unity.<br><br>🌎 Construo sites modernos e responsivos com ReactJS.<br><br>📱 Crio aplicativos intuitivos para diferentes plataformas.<br><br>🎬 Produzo vídeos e devlogs sobre desenvolvimento de jogos no YouTube.</p>
+<p align="left">🕹️ Desenvolvo jogos 2D(e quem sabe 3D futuramnte)<br><br>🔥 Estou criando um jogo educativo para ensinar matemática básica material para meu TCC.<br><br>🌎 Construo sites modernos e responsivos com ReactJS.<br><br>📱 Crio aplicativos intuitivos para diferentes plataformas.<br><br>🎬 Produzo lives sobre desenvolvimento de jogos na twitch.</p>
 
 ###
 
@@ -97,13 +97,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique/" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-enrique-dev/ target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/devlag_/" target="_blank">
+  <a href="https://www.instagram.com/stack_criativo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@Devlag" target="_blank">
+  <a href="https://www.youtube.com/@stackcriativo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>

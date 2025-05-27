@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">🕹️ Desenvolvo jogos 2D(e quem sabe 3D futuramnte)<br><br>🔥 Estou criando um jogo educativo para ensinar matemática básica material para meu TCC.<br><br>🌎 Construo sites modernos e responsivos com ReactJS.<br><br>📱 Crio aplicativos intuitivos para diferentes plataformas.<br><br>🎬 Produzo lives sobre desenvolvimento de jogos na twitch.</p>
+<p align="left">🕹️ Desenvolvo jogos 2D(e quem sabe 3D futuramnte)<br><br>🔥 Estou criando um jogo educativo para ensinar matemática básica material para meu TCC.<br><br>🌎 Construo sites modernos e responsivos com ReactJS.<br><br>📱 Crio aplicativos intuitivos para diferentes plataformas.<br><br>🎬 Produzo lives sobre desenvolvimento de jogos, sites e aplicativos na twitch.</p>
 
 ###
 

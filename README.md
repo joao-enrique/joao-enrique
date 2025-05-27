@@ -1,4 +1,4 @@
-<img alt="background" src="João_Enrique.png" align="center"/>
+<img alt="background" src="João Enrique.jpg" align="center"/>
 <br>
 <h2 align="left">👋 Opa e aí, tudo bem? Eu sou o João</h2>
 

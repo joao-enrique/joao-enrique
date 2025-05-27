@@ -84,8 +84,8 @@
 
 ###
 
-<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=Jedev1&show_icons=true&hide_border=true&theme=merko&rank_icon=github"/>
-<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedev1&hide_progress=true&theme=merko&langs_count=10"/>
+<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=joao-enrique&show_icons=true&hide_border=true&theme=merko&rank_icon=github"/>
+<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-enrique&hide_progress=true&theme=merko&langs_count=10"/>
 
 
 ![snake gif](https://github.com/Jedev1/Jedev1/blob/main/github-contribution-grid-snake-dark.svg)

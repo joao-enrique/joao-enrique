@@ -84,9 +84,10 @@
 
 ###
 
-<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api?username=joao-enrique&show_icons=true&hide_border=true&theme=merko&rank_icon=github"/>
-<img align="left" alt="João Enrique github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-enrique&hide_progress=true&theme=merko&langs_count=10"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-enrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-enrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ![snake gif](https://github.com/Jedev1/Jedev1/blob/main/github-contribution-grid-snake-dark.svg)
 

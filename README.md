@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=7000&color=F9C80E&multiline=true&width=260&height=82&lines=OPA+E+A%C3%8D%2CTUDO+BEM%3F+;EU+SOU+O+JO%C3%83O.;DEV+WEB%2CAPPS+E+GAMES"  />
+  <img height="100" src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=4000&color=F9C80E&multiline=true&width=260&height=82&lines=OPA+E+A%C3%8D%2CTUDO+BEM%3F+;EU+SOU+O+JO%C3%83O.;DEV+WEB%2CAPPS+E+GAMES"  />
 </div>
 
 ###

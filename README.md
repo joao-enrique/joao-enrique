@@ -1,4 +1,4 @@
-<img alt="background" src="João Enrique.jpg" align="center"/>
+<img alt="background" src="https://i.ibb.co/k25BcZKb/banner.png" align="center"/>
 <br>
 <h2 align="left">👋 Opa e aí, tudo bem? Eu sou o João</h2>
 

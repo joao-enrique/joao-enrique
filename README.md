@@ -1,114 +1,55 @@
-<img alt="background" src="https://i.ibb.co/k25BcZKb/banner.png" align="center"/>
-<br>
-<h2 align="left">👋 Opa e aí, tudo bem? Eu sou o João</h2>
-
-###
-
-<p align="left">🎮 Desenvolvedor Full-stack e Game Dev | 🎨 Criador de interfaces intuitivas | 🎥 Criador de conteúdo</p>
-
-###
-
-<h2 align="left">💻 Tecnologias</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=sass" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+<div align="center">
+  <img height="200" src="https://i.ibb.co/k25BcZKb/banner.png"  />
 </div>
 
 ###
 
-<h2 align="left">🎯 O que eu faço?</h2>
+<br clear="both">
 
-###
-
-<p align="left">🕹️ Desenvolvo jogos 2D(e quem sabe 3D futuramnte)<br><br>🔥 Estou criando um jogo educativo para ensinar matemática básica material para meu TCC.<br><br>🌎 Construo sites modernos e responsivos com ReactJS.<br><br>📱 Crio aplicativos intuitivos para diferentes plataformas.<br><br>🎬 Produzo lives sobre desenvolvimento de jogos, sites e aplicativos na twitch.</p>
-
-###
-
-<h2 align="left">Status ✨</h2>
+<img align="right" height="300" src="https://i.ibb.co/zTrbL9fQ/IMG-20251018-170838.jpg"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao-enrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-enrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="100" src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=7000&color=F9C80E&multiline=true&width=260&height=82&lines=OPA+E+A%C3%8D%2CTUDO+BEM%3F+;EU+SOU+O+JO%C3%83O.;DEV+WEB%2CAPPS+E+GAMES"  />
 </div>
-
-###
-
-![snake gif](https://github.com/Jedev1/Jedev1/blob/main/github-contribution-grid-snake-dark.svg)
-
-###
-
-<p align="left">📌 Quer trocar uma ideia ou colaborar?</p>
 
 ###
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/joao-enrique-dev/" target="_blank"> 
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /> 
-    </a> 
-    <a href="https://jedev1.itch.io/" target="_blank"> 
-        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch logo" /> 
-    </a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-enrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-enrique&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F9C80E&logoColor=F9C80E&labelColor=F9C80E&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=F9C80E&logoColor=F9C80E&labelColor=F9C80E&style=for-the-badge" height="30" alt="itch logo"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-enrique&radius=16&theme=material&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao-enrique/joao-enrique/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao-enrique/joao-enrique/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joao-enrique/joao-enrique/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/joao-enrique/joao-enrique/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=106&descAlignY=50&theme=cobalt"  />
+</div>
+
+###

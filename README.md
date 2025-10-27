@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://i.ibb.co/zTrbL9fQ/IMG-20251018-170838.jpg"  />
+<img align="right" height="300" src="https://i.ibb.co/NdspkDYt/IMG-20251018-170838.jpg"  />
 
 ###
 

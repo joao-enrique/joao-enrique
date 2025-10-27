@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://i.ibb.co/NdspkDYt/IMG-20251018-170838.jpg"  />
+<img align="right" height="400" src="https://i.ibb.co/NdspkDYt/IMG-20251018-170838.jpg"  />
 
 ###
 
@@ -16,8 +16,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao-enrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-enrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-enrique&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 

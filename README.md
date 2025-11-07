@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="meu-github-gamma.vercel.app">Meu github</a>
+  <a href="https://meu-github-gamma.vercel.app/">Meu github</a>
 </div>
 
 ###
